@@ -13,8 +13,7 @@ Hi, I'm a web developer and designer. I’ve spent the past 2 years blending cod
 - 📫 How to reach me: GitHub profile or LinkedIn 
 - ⚡ Fun fact: Sports 
 
-- 👨‍💻 All of my projects are available at [[https://www.facebook.com/EmbroideryNinjas/
-](https://www.creativefabrica.com/wp-content/uploads/2024/10/07/Frog-Applique-Embroidery-Design-Embroidery-107361807-1-1-580x386.png)](https://www.creativefabrica.com/product/sneakers-machine-embroidery-design/ref/1948980?fbclid=IwY2xjawN9a1xleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeHW95rfKIFc_ZwA3oqUmUtCDck9RGwXblMIe9zJH6SZtfMn_LPc6X3ys9liM_aem__AMdXv41l_6Xl2T6p4tV7w)
+- 👨‍💻 All of my projects are available at-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
